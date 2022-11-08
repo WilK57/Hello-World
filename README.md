@@ -17,7 +17,8 @@
 </head>
 
 <body>
-  <!-- Hello World My Name Is Wil Keddie. I like to play basketball, video games, and hang out with friends. I go to school at New Hope Solebury High School. My favorite food is pizza... -->
+  <!-- Hello World My Name Is Wil Keddie. I like to play basketball, video games, and hang out with friends. I go to school at New Hope Solebury High School. My favorite food is pizza.... -->
  HELLO World!!!
+  Hello World My Name Is Wil Keddie. I like to play basketball, video games, and hang out with friends. I go to school at New Hope Solebury High School. My favorite food is pizza.
 </body>
 </html>
